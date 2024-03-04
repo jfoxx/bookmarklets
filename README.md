@@ -9,4 +9,4 @@ To use a bookmarklet, simply drag the contents of a bookmarklet from the link be
 
 | Bookmarklet | Description |
 | ----------- | ----------- |
-| [Run PageSpeed Insights](bookmarklets/pagespeed)| Simple check to see if jQuery is on the page and if so, what version. |
+| [Run PageSpeed Insights](bookmarklets/pagespeed)| Run from any page to open a new tab and run PageSpeed Insights on that page. |
