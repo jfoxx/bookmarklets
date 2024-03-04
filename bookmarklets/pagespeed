@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar url%3D encodeURIComponent(window.location.href)%3Bvar ps %3D 'https%3A%2F%2Fpagespeed.web.dev%2Fanalysis%3Furl%3D'%2Burl%3Bwindow.open(ps%2C '_blank')%7D)()
