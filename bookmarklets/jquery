@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A%20if%20(!window.jQuery)%20%7B%20alert%20(%22No%20jQuery%22)%3B%7Delse%7B%20alert(jQuery.fn.jquery)%3B%20%7D%7D)()
